@@ -1,0 +1,15 @@
+[submodule "lab0-JCSnap"]
+	path = lab0-JCSnap
+	url = https://github.com/nus-cs2030s-2223-s2/lab0-JCSnap.git
+[submodule "lab1-JCSnap"]
+	path = lab1-JCSnap
+	url = https://github.com/nus-cs2030s-2223-s2/lab1-JCSnap.git
+[submodule "lab2-JCSnap"]
+	path = lab2-JCSnap
+	url = https://github.com/nus-cs2030s-2223-s2/lab2-JCSnap.git
+[submodule "lab3-JCSnap"]
+	path = lab3-JCSnap
+	url = https://github.com/nus-cs2030s-2223-s2/lab3-JCSnap.git
+[submodule "lab4-JCSnap"]
+	path = lab4-JCSnap
+	url = https://github.com/nus-cs2030s-2223-s2/lab4-JCSnap.git
